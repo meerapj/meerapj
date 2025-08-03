@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hi! I’m Meera** 👋
 
-<!--
-**meerapj/meerapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a **Software Developer** with more than 6 years of experience in **C and C++**, I focus on:
+- **LTE & 5G S-planes and M-planes**
+- **Embedded systems and telecom protocols**
+- Real-time systems and performance optimization
 
-Here are some ideas to get you started:
+### 🔹 What I’m currently working on
+- I’m building my portfolio with **open-source C/C++ projects**
+- I’m also looking into **freelance projects** in telecom, embedded software, and system-level programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 My Technical Skills
+- **Languages:** C, C++ (STL), Bash, and some basic Python
+- **Domains:** LTE & 5G protocol stack, Embedded systems, Telecom software
+- **Tools:** Git, Wireshark, gdb, Valgrind, Jenkins, and a little Docker
+
+### 🔹 Let’s connect
+- **Email:** meera.pj91@gmail.com
+- **LinkedIn:** www.linkedin.com/in/meera-p-j
+
+> _"I enjoy building dependable software and tackling low-level performance issues."_
